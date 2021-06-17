@@ -6,11 +6,11 @@
   margin-top: 20px;
 }
 
-.table__text :first-child {
+.table__text:first-child {
   margin: 0;
 }
 
-.table__text :last-child {
+.table__text:last-child {
   margin: 0;
   margin-top: 20px;
 }
